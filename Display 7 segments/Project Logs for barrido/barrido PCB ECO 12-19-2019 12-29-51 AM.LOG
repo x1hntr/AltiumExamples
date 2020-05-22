@@ -1,0 +1,22 @@
+Added Component: Designator=*(*SO18L)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=1b Pin=*-1
+Added Pin To Net: NetName=2b Pin=*-2
+Added Pin To Net: NetName=3b Pin=*-3
+Added Pin To Net: NetName=4b Pin=*-4
+Added Pin To Net: NetName=5b Pin=*-5
+Added Pin To Net: NetName=6b Pin=*-6
+Added Pin To Net: NetName=7b Pin=*-7
+Added Pin To Net: NetName=8b Pin=*-8
+Added Pin To Net: NetName=GND Pin=*-9
+Added Pin To Net: NetName=VCC Pin=*-10
+Added Pin To Net: NetName=8c Pin=*-11
+Added Pin To Net: NetName=7c Pin=*-12
+Added Pin To Net: NetName=6c Pin=*-13
+Added Pin To Net: NetName=5c Pin=*-14
+Added Pin To Net: NetName=4c Pin=*-15
+Added Pin To Net: NetName=3c Pin=*-16
+Added Pin To Net: NetName=2c Pin=*-17
+Added Pin To Net: NetName=1c Pin=*-18
+Added Member To Class: ClassName=barrido Member=Component * uln2803
+Added Room: Name=barrido
