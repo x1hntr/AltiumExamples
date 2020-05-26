@@ -1,0 +1,17 @@
+Added Component: Designator=PIN ST1(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN ST2(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN ST3(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN ST4(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VO1 Pin=PIN ST1-1
+Added Pin To Net: NetName=VO2 Pin=PIN ST2-1
+Added Pin To Net: NetName=VO3 Pin=PIN ST3-1
+Added Pin To Net: NetName=VO4 Pin=PIN ST4-1
+Added Member To Class: ClassName=PCB Member=Component PIN ST1 Connector
+Added Member To Class: ClassName=PCB Member=Component PIN ST2 Connector
+Added Member To Class: ClassName=PCB Member=Component PIN ST3 Connector
+Added Member To Class: ClassName=PCB Member=Component PIN ST4 Connector
+Added Room: Name=PCB

@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=VO1 Pin=OPTOACOPLADOR2-6
+Removed Pin From Net: NetName=VO1 Pin=OPTOACOPLADOR3-6
+Removed Pin From Net: NetName=VO1 Pin=OPTOACOPLADOR4-6
+Removed Pin From Net: NetName=VO1 Pin=R4-1
+Removed Pin From Net: NetName=VO1 Pin=R9-1
+Removed Pin From Net: NetName=VO1 Pin=R10-1
+Change component parameters: Designator = "R3"; Footprint = "AXIAL-0.3"; UniqueID = "\YJJCGGEJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "AXIAL-0.3"; UniqueID = "\AHJPYMJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "AXIAL-0.3"; UniqueID = "\GUPPUVXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "AXIAL-0.3"; UniqueID = "\LPWRKGTJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SC(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SN(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VO1(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VO2(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VO3(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VO4(1x1x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VO1 Pin=VO1-1
+Added Pin To Net: NetName=SC Pin=R2-1
+Added Pin To Net: NetName=SC Pin=R7-1
+Added Pin To Net: NetName=SC Pin=SC-1
+Added Net: Name=SC
+Added Pin To Net: NetName=SN Pin=R1-1
+Added Pin To Net: NetName=SN Pin=R8-1
+Added Pin To Net: NetName=SN Pin=SN-1
+Added Net: Name=SN
+Added Pin To Net: NetName=VO2 Pin=OPTOACOPLADOR2-6
+Added Pin To Net: NetName=VO2 Pin=R4-1
+Added Pin To Net: NetName=VO2 Pin=VO2-1
+Added Net: Name=VO2
+Added Pin To Net: NetName=VO3 Pin=OPTOACOPLADOR3-6
+Added Pin To Net: NetName=VO3 Pin=R9-1
+Added Pin To Net: NetName=VO3 Pin=VO3-1
+Added Net: Name=VO3
+Added Pin To Net: NetName=VO4 Pin=OPTOACOPLADOR4-6
+Added Pin To Net: NetName=VO4 Pin=R10-1
+Added Pin To Net: NetName=VO4 Pin=VO4-1
+Added Net: Name=VO4
+Added Member To Class: ClassName=PCB Member=Component SC Connector
+Added Member To Class: ClassName=PCB Member=Component SN Connector
+Added Member To Class: ClassName=PCB Member=Component VO1 Connector
+Added Member To Class: ClassName=PCB Member=Component VO2 Connector
+Added Member To Class: ClassName=PCB Member=Component VO3 Connector
+Added Member To Class: ClassName=PCB Member=Component VO4 Connector
+Added Room: Name=PCB

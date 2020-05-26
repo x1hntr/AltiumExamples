@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VO1 Pin=V1-1
+Removed Pin From Net: NetName=GND Pin=V1-7
+Removed Pin From Net: NetName=VCC Pin=V1-14
+Removed Pin From Net: NetName=VO2 Pin=V2-3
+Removed Pin From Net: NetName=GND Pin=V2-7
+Removed Pin From Net: NetName=VCC Pin=V2-14
+Removed Pin From Net: NetName=VO3 Pin=V3-5
+Removed Pin From Net: NetName=GND Pin=V3-7
+Removed Pin From Net: NetName=VCC Pin=V3-14
+Removed Member From Class: ClassName=PCB Member=V1
+Removed Member From Class: ClassName=PCB Member=V2
+Removed Member From Class: ClassName=PCB Member=V3
+Change Component Designator: OldDesignator=V4 NewDesignator=VD
+Added Pin To Net: NetName=VO1 Pin=VD-1
+Added Pin To Net: NetName=VO2 Pin=VD-3
+Added Pin To Net: NetName=VO3 Pin=VD-5
+Added Room: Name=PCB

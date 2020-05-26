@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 6N137.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\AD17\Library\6N137\6N137.lia
+    Section : PCB Library - 6N137.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 6N137 On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 267
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 6N137.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 120
+        EndSection
+
+        Section : Generating SCH Library - 6N137.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,28 @@
+Added Component: Designator=U?(DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/optocouplers/list/product-83640/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/83640/83640.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Rev. 1.4, Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Coupling Capacitance, 0.5 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "6-Oct-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/optocouplers/list/product-83640/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/83640/83640.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Rev. 1.4, Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Coupling Capacitance, 0.5 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "6-Oct-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OPTO3 Pin=U?-3
+Added Member To Class: ClassName=PCB Member=Component U? ILD74
+Added Member To Class: ClassName=PCB Member=Component U? ILD74
+Added Room: Name=PCB
